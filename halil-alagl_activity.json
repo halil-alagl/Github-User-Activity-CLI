@@ -1,0 +1,520 @@
+[
+  {
+    "id": "53001696695",
+    "type": "IssueCommentEvent",
+    "actor": {
+      "id": 139588876,
+      "login": "halil-alagl",
+      "display_login": "halil-alagl",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/halil-alagl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139588876?"
+    },
+    "repo": {
+      "id": 708274064,
+      "name": "JaKooLit/Hyprland-Dots",
+      "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots"
+    },
+    "payload": {
+      "action": "created",
+      "issue": {
+        "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789",
+        "repository_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots",
+        "labels_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/labels{/name}",
+        "comments_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/comments",
+        "events_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/events",
+        "html_url": "https://github.com/JaKooLit/Hyprland-Dots/issues/789",
+        "id": 3289288428,
+        "node_id": "I_kwDOKjdnkM7EDo7s",
+        "number": 789,
+        "title": "[Bug]: Missing package results in error",
+        "user": {
+          "login": "halil-alagl",
+          "id": 139588876,
+          "node_id": "U_kgDOCFH1DA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/139588876?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/halil-alagl",
+          "html_url": "https://github.com/halil-alagl",
+          "followers_url": "https://api.github.com/users/halil-alagl/followers",
+          "following_url": "https://api.github.com/users/halil-alagl/following{/other_user}",
+          "gists_url": "https://api.github.com/users/halil-alagl/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/halil-alagl/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/halil-alagl/subscriptions",
+          "organizations_url": "https://api.github.com/users/halil-alagl/orgs",
+          "repos_url": "https://api.github.com/users/halil-alagl/repos",
+          "events_url": "https://api.github.com/users/halil-alagl/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/halil-alagl/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 6114000444,
+            "node_id": "LA_kwDOKjdnkM8AAAABbGw-PA",
+            "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/labels/bug",
+            "name": "bug",
+            "color": "d73a4a",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "closed",
+        "locked": false,
+        "assignee": {
+          "login": "JaKooLit",
+          "id": 85185940,
+          "node_id": "MDQ6VXNlcjg1MTg1OTQw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/85185940?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/JaKooLit",
+          "html_url": "https://github.com/JaKooLit",
+          "followers_url": "https://api.github.com/users/JaKooLit/followers",
+          "following_url": "https://api.github.com/users/JaKooLit/following{/other_user}",
+          "gists_url": "https://api.github.com/users/JaKooLit/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/JaKooLit/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/JaKooLit/subscriptions",
+          "organizations_url": "https://api.github.com/users/JaKooLit/orgs",
+          "repos_url": "https://api.github.com/users/JaKooLit/repos",
+          "events_url": "https://api.github.com/users/JaKooLit/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/JaKooLit/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "assignees": [
+          {
+            "login": "JaKooLit",
+            "id": 85185940,
+            "node_id": "MDQ6VXNlcjg1MTg1OTQw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85185940?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/JaKooLit",
+            "html_url": "https://github.com/JaKooLit",
+            "followers_url": "https://api.github.com/users/JaKooLit/followers",
+            "following_url": "https://api.github.com/users/JaKooLit/following{/other_user}",
+            "gists_url": "https://api.github.com/users/JaKooLit/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/JaKooLit/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/JaKooLit/subscriptions",
+            "organizations_url": "https://api.github.com/users/JaKooLit/orgs",
+            "repos_url": "https://api.github.com/users/JaKooLit/repos",
+            "events_url": "https://api.github.com/users/JaKooLit/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/JaKooLit/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ],
+        "milestone": null,
+        "comments": 2,
+        "created_at": "2025-08-04T12:41:35Z",
+        "updated_at": "2025-08-06T05:25:14Z",
+        "closed_at": "2025-08-04T12:44:55Z",
+        "author_association": "NONE",
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "body": "### Already reported ? *\n\n- [x] I have searched the existing open and closed issues.\n\n### Regression?\n\nYes\n\n### System Info and Version\n\n<details> <summary>System/Version info</summary>\n\n```\nSystem:\n  Host: archlinux Kernel: 6.15.8-arch1-2 arch: x86_64 bits: 64\n  Desktop: Hyprland v: 0.50.1 Distro: Arch Linux\nMachine:\n  Type: Desktop System: Gigabyte product: B450M H v: -CF\n    serial: <superuser required>\n  Mobo: Gigabyte model: B450M H v: x.x serial: <superuser required>\n    UEFI: American Megatrends LLC. v: F63 date: 08/03/2022\nCPU:\n  Info: 6-core model: AMD Ryzen 5 5600G with Radeon Graphics bits: 64\n    type: MT MCP cache: L2: 3 MiB\n  Speed (MHz): avg: 2368 min/max: 404/4466 cores: 1: 2368 2: 2368 3: 2368\n    4: 2368 5: 2368 6: 2368 7: 2368 8: 2368 9: 2368 10: 2368 11: 2368 12: 2368\nGraphics:\n  Device-1: Advanced Micro Devices [AMD/ATI] Cezanne [Radeon Vega Series /\n    Radeon Mobile Series] driver: amdgpu v: kernel\n  Display: wayland server: X.org v: 1.21.1.18 with: Xwayland v: 24.1.8\n    compositor: Hyprland v: 0.50.1 driver: X: loaded: amdgpu\n    unloaded: modesetting dri: radeonsi gpu: amdgpu resolution: 1366x768~60Hz\n  API: EGL Message: EGL data requires eglinfo. Check --recommends.\n  Info: Tools: wl: nwg-displays x11: xprop,xrandr\nAudio:\n  Device-1: Advanced Micro Devices [AMD/ATI] Renoir Radeon High Definition\n    Audio driver: snd_hda_intel\n  Device-2: Advanced Micro Devices [AMD] Family 17h/19h/1ah HD Audio\n    driver: snd_hda_intel\n  Device-3: Barco Display Systems USBSH1\n    driver: hid-generic,snd-usb-audio,usbhid type: USB\n  API: ALSA v: k6.15.8-arch1-2 status: kernel-api\n  Server-1: PipeWire v: 1.4.7 status: active\nNetwork:\n  Device-1: Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet\n    driver: r8169\n  IF: enp8s0 state: up speed: 100 Mbps duplex: full mac: d8:5e:d3:fd:da:6d\nDrives:\n  Local Storage: total: 447.15 GiB used: 157.79 GiB (35.3%)\n  ID-1: /dev/sda vendor: Kingston model: SA400S37240G size: 223.57 GiB\n  ID-2: /dev/sdb vendor: SanDisk model: SSD PLUS 240GB size: 223.58 GiB\nPartition:\n  ID-1: / size: 222.57 GiB used: 79.17 GiB (35.6%) fs: btrfs dev: /dev/sda2\n  ID-2: /boot size: 1022 MiB used: 172.9 MiB (16.9%) fs: vfat dev: /dev/sda1\n  ID-3: /home size: 222.57 GiB used: 79.17 GiB (35.6%) fs: btrfs\n    dev: /dev/sda2\n  ID-4: /var/log size: 222.57 GiB used: 79.17 GiB (35.6%) fs: btrfs\n    dev: /dev/sda2\nSwap:\n  ID-1: swap-1 type: zram size: 4 GiB used: 0 KiB (0.0%) dev: /dev/zram0\nSensors:\n  System Temperatures: cpu: 46.8 C mobo: 33.0 C gpu: amdgpu temp: 40.0 C\n  Fan Speeds (rpm): N/A\nInfo:\n  Memory: total: 16 GiB note: est. available: 14.5 GiB used: 3.32 GiB (22.9%)\n  Processes: 331 Uptime: 13m Shell: Zsh inxi: 3.3.38\n```\n\n</details>\n\n### KooL's Dots version\n\nv2.3.16\n\n### Description\n\nPackage **jq** is not included in the update so when the **WallpaperSelect.sh** script tries to get the focused monitor and cant detect it\n\n```\nfocused_monitor=$(hyprctl monitors -j | jq -r '.[] | select(.focused) | .name')\n\n# Ensure focused_monitor is detected\nif [[ -z \"$focused_monitor\" ]]; then\n  notify-send -i \"$iDIR/error.png\" \"E-R-R-O-R\" \"Could not detect focused monitor\"\n  exit 1\nfi\n```\n\n\n\n### How to reproduce\n\nJust use the WalpaperSelect script without the jq package installed\n\n\n### install logs, images or videos\n\n_No response_",
+        "reactions": {
+          "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/timeline",
+        "performed_via_github_app": null,
+        "state_reason": "completed"
+      },
+      "comment": {
+        "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/comments/3157449925",
+        "html_url": "https://github.com/JaKooLit/Hyprland-Dots/issues/789#issuecomment-3157449925",
+        "issue_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789",
+        "id": 3157449925,
+        "node_id": "IC_kwDOKjdnkM68MtzF",
+        "user": {
+          "login": "halil-alagl",
+          "id": 139588876,
+          "node_id": "U_kgDOCFH1DA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/139588876?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/halil-alagl",
+          "html_url": "https://github.com/halil-alagl",
+          "followers_url": "https://api.github.com/users/halil-alagl/followers",
+          "following_url": "https://api.github.com/users/halil-alagl/following{/other_user}",
+          "gists_url": "https://api.github.com/users/halil-alagl/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/halil-alagl/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/halil-alagl/subscriptions",
+          "organizations_url": "https://api.github.com/users/halil-alagl/orgs",
+          "repos_url": "https://api.github.com/users/halil-alagl/repos",
+          "events_url": "https://api.github.com/users/halil-alagl/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/halil-alagl/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "created_at": "2025-08-06T05:25:14Z",
+        "updated_at": "2025-08-06T05:25:14Z",
+        "author_association": "NONE",
+        "body": "Oh, my bad didn't see that ",
+        "reactions": {
+          "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/comments/3157449925/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "performed_via_github_app": null
+      }
+    },
+    "public": true,
+    "created_at": "2025-08-06T05:25:15Z"
+  },
+  {
+    "id": "52915624832",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 139588876,
+      "login": "halil-alagl",
+      "display_login": "halil-alagl",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/halil-alagl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139588876?"
+    },
+    "repo": {
+      "id": 708274064,
+      "name": "JaKooLit/Hyprland-Dots",
+      "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789",
+        "repository_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots",
+        "labels_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/labels{/name}",
+        "comments_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/comments",
+        "events_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/events",
+        "html_url": "https://github.com/JaKooLit/Hyprland-Dots/issues/789",
+        "id": 3289288428,
+        "node_id": "I_kwDOKjdnkM7EDo7s",
+        "number": 789,
+        "title": "[Bug]: Missing package results in error",
+        "user": {
+          "login": "halil-alagl",
+          "id": 139588876,
+          "node_id": "U_kgDOCFH1DA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/139588876?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/halil-alagl",
+          "html_url": "https://github.com/halil-alagl",
+          "followers_url": "https://api.github.com/users/halil-alagl/followers",
+          "following_url": "https://api.github.com/users/halil-alagl/following{/other_user}",
+          "gists_url": "https://api.github.com/users/halil-alagl/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/halil-alagl/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/halil-alagl/subscriptions",
+          "organizations_url": "https://api.github.com/users/halil-alagl/orgs",
+          "repos_url": "https://api.github.com/users/halil-alagl/repos",
+          "events_url": "https://api.github.com/users/halil-alagl/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/halil-alagl/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 6114000444,
+            "node_id": "LA_kwDOKjdnkM8AAAABbGw-PA",
+            "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/labels/bug",
+            "name": "bug",
+            "color": "d73a4a",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+          "login": "JaKooLit",
+          "id": 85185940,
+          "node_id": "MDQ6VXNlcjg1MTg1OTQw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/85185940?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/JaKooLit",
+          "html_url": "https://github.com/JaKooLit",
+          "followers_url": "https://api.github.com/users/JaKooLit/followers",
+          "following_url": "https://api.github.com/users/JaKooLit/following{/other_user}",
+          "gists_url": "https://api.github.com/users/JaKooLit/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/JaKooLit/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/JaKooLit/subscriptions",
+          "organizations_url": "https://api.github.com/users/JaKooLit/orgs",
+          "repos_url": "https://api.github.com/users/JaKooLit/repos",
+          "events_url": "https://api.github.com/users/JaKooLit/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/JaKooLit/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "assignees": [
+          {
+            "login": "JaKooLit",
+            "id": 85185940,
+            "node_id": "MDQ6VXNlcjg1MTg1OTQw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85185940?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/JaKooLit",
+            "html_url": "https://github.com/JaKooLit",
+            "followers_url": "https://api.github.com/users/JaKooLit/followers",
+            "following_url": "https://api.github.com/users/JaKooLit/following{/other_user}",
+            "gists_url": "https://api.github.com/users/JaKooLit/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/JaKooLit/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/JaKooLit/subscriptions",
+            "organizations_url": "https://api.github.com/users/JaKooLit/orgs",
+            "repos_url": "https://api.github.com/users/JaKooLit/repos",
+            "events_url": "https://api.github.com/users/JaKooLit/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/JaKooLit/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2025-08-04T12:41:35Z",
+        "updated_at": "2025-08-04T12:41:35Z",
+        "closed_at": null,
+        "author_association": "NONE",
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "body": "### Already reported ? *\n\n- [x] I have searched the existing open and closed issues.\n\n### Regression?\n\nYes\n\n### System Info and Version\n\n<details> <summary>System/Version info</summary>\n\n```\nSystem:\n  Host: archlinux Kernel: 6.15.8-arch1-2 arch: x86_64 bits: 64\n  Desktop: Hyprland v: 0.50.1 Distro: Arch Linux\nMachine:\n  Type: Desktop System: Gigabyte product: B450M H v: -CF\n    serial: <superuser required>\n  Mobo: Gigabyte model: B450M H v: x.x serial: <superuser required>\n    UEFI: American Megatrends LLC. v: F63 date: 08/03/2022\nCPU:\n  Info: 6-core model: AMD Ryzen 5 5600G with Radeon Graphics bits: 64\n    type: MT MCP cache: L2: 3 MiB\n  Speed (MHz): avg: 2368 min/max: 404/4466 cores: 1: 2368 2: 2368 3: 2368\n    4: 2368 5: 2368 6: 2368 7: 2368 8: 2368 9: 2368 10: 2368 11: 2368 12: 2368\nGraphics:\n  Device-1: Advanced Micro Devices [AMD/ATI] Cezanne [Radeon Vega Series /\n    Radeon Mobile Series] driver: amdgpu v: kernel\n  Display: wayland server: X.org v: 1.21.1.18 with: Xwayland v: 24.1.8\n    compositor: Hyprland v: 0.50.1 driver: X: loaded: amdgpu\n    unloaded: modesetting dri: radeonsi gpu: amdgpu resolution: 1366x768~60Hz\n  API: EGL Message: EGL data requires eglinfo. Check --recommends.\n  Info: Tools: wl: nwg-displays x11: xprop,xrandr\nAudio:\n  Device-1: Advanced Micro Devices [AMD/ATI] Renoir Radeon High Definition\n    Audio driver: snd_hda_intel\n  Device-2: Advanced Micro Devices [AMD] Family 17h/19h/1ah HD Audio\n    driver: snd_hda_intel\n  Device-3: Barco Display Systems USBSH1\n    driver: hid-generic,snd-usb-audio,usbhid type: USB\n  API: ALSA v: k6.15.8-arch1-2 status: kernel-api\n  Server-1: PipeWire v: 1.4.7 status: active\nNetwork:\n  Device-1: Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet\n    driver: r8169\n  IF: enp8s0 state: up speed: 100 Mbps duplex: full mac: d8:5e:d3:fd:da:6d\nDrives:\n  Local Storage: total: 447.15 GiB used: 157.79 GiB (35.3%)\n  ID-1: /dev/sda vendor: Kingston model: SA400S37240G size: 223.57 GiB\n  ID-2: /dev/sdb vendor: SanDisk model: SSD PLUS 240GB size: 223.58 GiB\nPartition:\n  ID-1: / size: 222.57 GiB used: 79.17 GiB (35.6%) fs: btrfs dev: /dev/sda2\n  ID-2: /boot size: 1022 MiB used: 172.9 MiB (16.9%) fs: vfat dev: /dev/sda1\n  ID-3: /home size: 222.57 GiB used: 79.17 GiB (35.6%) fs: btrfs\n    dev: /dev/sda2\n  ID-4: /var/log size: 222.57 GiB used: 79.17 GiB (35.6%) fs: btrfs\n    dev: /dev/sda2\nSwap:\n  ID-1: swap-1 type: zram size: 4 GiB used: 0 KiB (0.0%) dev: /dev/zram0\nSensors:\n  System Temperatures: cpu: 46.8 C mobo: 33.0 C gpu: amdgpu temp: 40.0 C\n  Fan Speeds (rpm): N/A\nInfo:\n  Memory: total: 16 GiB note: est. available: 14.5 GiB used: 3.32 GiB (22.9%)\n  Processes: 331 Uptime: 13m Shell: Zsh inxi: 3.3.38\n```\n\n</details>\n\n### KooL's Dots version\n\nv2.3.16\n\n### Description\n\nPackage **jq** is not included in the update so when the **WallpaperSelect.sh** script tries to get the focused monitor and cant detect it\n\n```\nfocused_monitor=$(hyprctl monitors -j | jq -r '.[] | select(.focused) | .name')\n\n# Ensure focused_monitor is detected\nif [[ -z \"$focused_monitor\" ]]; then\n  notify-send -i \"$iDIR/error.png\" \"E-R-R-O-R\" \"Could not detect focused monitor\"\n  exit 1\nfi\n```\n\n\n\n### How to reproduce\n\nJust use the WalpaperSelect script without the jq package installed\n\n\n### install logs, images or videos\n\n_No response_",
+        "reactions": {
+          "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/789/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+      }
+    },
+    "public": true,
+    "created_at": "2025-08-04T12:41:37Z"
+  },
+  {
+    "id": "52642179541",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 139588876,
+      "login": "halil-alagl",
+      "display_login": "halil-alagl",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/halil-alagl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139588876?"
+    },
+    "repo": {
+      "id": 1027880209,
+      "name": "CosmicNerd97/TerminalGraph",
+      "url": "https://api.github.com/repos/CosmicNerd97/TerminalGraph"
+    },
+    "payload": {
+      "ref": "main",
+      "ref_type": "branch",
+      "master_branch": "main",
+      "description": "A cosine like function displayed on the console, written in c++",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-07-28T17:50:12Z"
+  },
+  {
+    "id": "52640589324",
+    "type": "CreateEvent",
+    "actor": {
+      "id": 139588876,
+      "login": "halil-alagl",
+      "display_login": "halil-alagl",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/halil-alagl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139588876?"
+    },
+    "repo": {
+      "id": 1027880209,
+      "name": "CosmicNerd97/TerminalGraph",
+      "url": "https://api.github.com/repos/CosmicNerd97/TerminalGraph"
+    },
+    "payload": {
+      "ref": null,
+      "ref_type": "repository",
+      "master_branch": "main",
+      "description": "A cosine like function displayed on the console, written in c++",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2025-07-28T17:11:15Z"
+  },
+  {
+    "id": "52255926186",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 139588876,
+      "login": "halil-alagl",
+      "display_login": "halil-alagl",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/halil-alagl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/139588876?"
+    },
+    "repo": {
+      "id": 708274064,
+      "name": "JaKooLit/Hyprland-Dots",
+      "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots"
+    },
+    "payload": {
+      "action": "opened",
+      "issue": {
+        "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/764",
+        "repository_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots",
+        "labels_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/764/labels{/name}",
+        "comments_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/764/comments",
+        "events_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/764/events",
+        "html_url": "https://github.com/JaKooLit/Hyprland-Dots/issues/764",
+        "id": 3242882369,
+        "node_id": "I_kwDOKjdnkM7BSnVB",
+        "number": 764,
+        "title": "[Bug]: Config Error with new update some properties of render doesnt exist",
+        "user": {
+          "login": "CosmicNerd97",
+          "id": 139588876,
+          "node_id": "U_kgDOCFH1DA",
+          "avatar_url": "https://avatars.githubusercontent.com/u/139588876?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/CosmicNerd97",
+          "html_url": "https://github.com/CosmicNerd97",
+          "followers_url": "https://api.github.com/users/CosmicNerd97/followers",
+          "following_url": "https://api.github.com/users/CosmicNerd97/following{/other_user}",
+          "gists_url": "https://api.github.com/users/CosmicNerd97/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/CosmicNerd97/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/CosmicNerd97/subscriptions",
+          "organizations_url": "https://api.github.com/users/CosmicNerd97/orgs",
+          "repos_url": "https://api.github.com/users/CosmicNerd97/repos",
+          "events_url": "https://api.github.com/users/CosmicNerd97/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/CosmicNerd97/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [
+          {
+            "id": 6114000444,
+            "node_id": "LA_kwDOKjdnkM8AAAABbGw-PA",
+            "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/labels/bug",
+            "name": "bug",
+            "color": "d73a4a",
+            "default": true,
+            "description": "Something isn't working"
+          }
+        ],
+        "state": "open",
+        "locked": false,
+        "assignee": {
+          "login": "JaKooLit",
+          "id": 85185940,
+          "node_id": "MDQ6VXNlcjg1MTg1OTQw",
+          "avatar_url": "https://avatars.githubusercontent.com/u/85185940?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/JaKooLit",
+          "html_url": "https://github.com/JaKooLit",
+          "followers_url": "https://api.github.com/users/JaKooLit/followers",
+          "following_url": "https://api.github.com/users/JaKooLit/following{/other_user}",
+          "gists_url": "https://api.github.com/users/JaKooLit/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/JaKooLit/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/JaKooLit/subscriptions",
+          "organizations_url": "https://api.github.com/users/JaKooLit/orgs",
+          "repos_url": "https://api.github.com/users/JaKooLit/repos",
+          "events_url": "https://api.github.com/users/JaKooLit/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/JaKooLit/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "assignees": [
+          {
+            "login": "JaKooLit",
+            "id": 85185940,
+            "node_id": "MDQ6VXNlcjg1MTg1OTQw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/85185940?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/JaKooLit",
+            "html_url": "https://github.com/JaKooLit",
+            "followers_url": "https://api.github.com/users/JaKooLit/followers",
+            "following_url": "https://api.github.com/users/JaKooLit/following{/other_user}",
+            "gists_url": "https://api.github.com/users/JaKooLit/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/JaKooLit/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/JaKooLit/subscriptions",
+            "organizations_url": "https://api.github.com/users/JaKooLit/orgs",
+            "repos_url": "https://api.github.com/users/JaKooLit/repos",
+            "events_url": "https://api.github.com/users/JaKooLit/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/JaKooLit/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          }
+        ],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2025-07-18T11:14:38Z",
+        "updated_at": "2025-07-18T11:14:38Z",
+        "closed_at": null,
+        "author_association": "NONE",
+        "active_lock_reason": null,
+        "sub_issues_summary": {
+          "total": 0,
+          "completed": 0,
+          "percent_completed": 0
+        },
+        "body": "### Already reported ? *\n\n- [x] I have searched the existing open and closed issues.\n\n### Regression?\n\nYes\n\n### System Info and Version\n\n<details> <summary>System/Version info</summary>\n\n```\nSystem:\n  Host: archlinux Kernel: 6.15.6-arch1-1 arch: x86_64 bits: 64\n  Desktop: Hyprland v: 0.50.0 Distro: Arch Linux\nMachine:\n  Type: Desktop System: Gigabyte product: B450M H v: -CF\n    serial: <superuser required>\n  Mobo: Gigabyte model: B450M H v: x.x serial: <superuser required>\n    UEFI: American Megatrends LLC. v: F63 date: 08/03/2022\nCPU:\n  Info: 6-core model: AMD Ryzen 5 5600G with Radeon Graphics bits: 64\n    type: MT MCP cache: L2: 3 MiB\n  Speed (MHz): avg: 2961 min/max: 404/4466 cores: 1: 2961 2: 2961 3: 2961\n    4: 2961 5: 2961 6: 2961 7: 2961 8: 2961 9: 2961 10: 2961 11: 2961 12: 2961\nGraphics:\n  Device-1: Advanced Micro Devices [AMD/ATI] Cezanne [Radeon Vega Series /\n    Radeon Mobile Series] driver: amdgpu v: kernel\n  Display: wayland server: X.org v: 1.21.1.18 with: Xwayland v: 24.1.8\n    compositor: Hyprland v: 0.50.0 driver: X: loaded: amdgpu\n    unloaded: modesetting dri: radeonsi gpu: amdgpu resolution: 1366x768~60Hz\n  API: EGL Message: EGL data requires eglinfo. Check --recommends.\n  Info: Tools: wl: nwg-displays x11: xprop,xrandr\nAudio:\n  Device-1: Advanced Micro Devices [AMD/ATI] Renoir Radeon High Definition\n    Audio driver: snd_hda_intel\n  Device-2: Advanced Micro Devices [AMD] Family 17h/19h/1ah HD Audio\n    driver: snd_hda_intel\n  Device-3: Barco Display Systems USBSH1\n    driver: hid-generic,snd-usb-audio,usbhid type: USB\n  API: ALSA v: k6.15.6-arch1-1 status: kernel-api\n  Server-1: PipeWire v: 1.4.6 status: active\nNetwork:\n  Device-1: Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet\n    driver: r8169\n  IF: enp8s0 state: up speed: 100 Mbps duplex: full mac: d8:5e:d3:fd:da:6d\n  IF-ID-1: br-2b1c4acec0e5 state: down mac: 12:c1:ea:93:8a:8d\n  IF-ID-2: docker0 state: down mac: 4a:2c:70:f3:18:56\nDrives:\n  Local Storage: total: 447.15 GiB used: 341.62 GiB (76.4%)\n  ID-1: /dev/sda vendor: Kingston model: SA400S37240G size: 223.57 GiB\n  ID-2: /dev/sdb vendor: SanDisk model: SSD PLUS 240GB size: 223.58 GiB\nPartition:\n  ID-1: / size: 222.57 GiB used: 147.6 GiB (66.3%) fs: btrfs dev: /dev/sda2\n  ID-2: /boot size: 1022 MiB used: 172.7 MiB (16.9%) fs: vfat dev: /dev/sda1\n  ID-3: /home size: 222.57 GiB used: 147.6 GiB (66.3%) fs: btrfs\n    dev: /dev/sda2\n  ID-4: /var/log size: 222.57 GiB used: 147.6 GiB (66.3%) fs: btrfs\n    dev: /dev/sda2\nSwap:\n  ID-1: swap-1 type: zram size: 4 GiB used: 0 KiB (0.0%) dev: /dev/zram0\nSensors:\n  System Temperatures: cpu: 45.0 C mobo: 34.0 C gpu: amdgpu temp: 42.0 C\n  Fan Speeds (rpm): N/A\nInfo:\n  Memory: total: 16 GiB note: est. available: 14.5 GiB used: 1.95 GiB (13.4%)\n  Processes: 322 Uptime: 9m Shell: Zsh inxi: 3.3.38\n```\n\n</details>\n\n### KooL's Dots version\n\nv2.3.15\n\n### Description\n\nrender:explicit_sync and render:explicit_sync_kms doesn't exist at $HOME/.config/hypr/UserSettings.conf at line 107 - 108\n\n### How to reproduce\n\nJust appeared when hyprland updated\n\n### install logs, images or videos\n\n<img width=\"1366\" height=\"52\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/ee834a20-e94d-4db3-8f1b-6e2ef2366a6b\" />",
+        "reactions": {
+          "url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/764/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/JaKooLit/Hyprland-Dots/issues/764/timeline",
+        "performed_via_github_app": null,
+        "state_reason": null
+      }
+    },
+    "public": true,
+    "created_at": "2025-07-18T11:14:39Z"
+  }
+]
+
